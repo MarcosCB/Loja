@@ -10,6 +10,8 @@ public class Venda {
 	private Pessoa pessoa;
 	private FormaPagamento formaPagamento;
 	
+	//teste
+	
 	public Venda() {
 		// TODO Auto-generated constructor stub
 	}
